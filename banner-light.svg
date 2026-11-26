@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" role="img" aria-label="Subramania Raja. Creator of Agentic Resource Registry. CEO of Observal.">
+<rect width="1200" height="336" rx="10" fill="#f3f4ef"/>
+<polyline points="706.5,115.5 931.5,245.4 1020.4,194.0" fill="none" stroke="#c9cfc8" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="870.5,111.5 1016.9,196.0 1020.4,194.0" fill="none" stroke="#c9cfc8" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="748.5,205.5 874.5,278.2 1020.4,194.0" fill="none" stroke="#c9cfc8" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="912.5,201.5 960.0,228.9 1020.4,194.0" fill="none" stroke="#c9cfc8" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="810.5,293.5 829.3,304.3 1020.4,194.0" fill="none" stroke="#c9cfc8" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="582.7,69.0 684.9,128.0 684.9,114.0 582.7,55.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="728.2,103.0 684.9,128.0 684.9,114.0 728.2,89.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="626.0,30.0 728.2,89.0 684.9,114.0 582.7,55.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="719.5,104.0 693.5,119.0 693.5,114.0 719.5,99.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,608.7,50.0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#171c20">skills</text>
+<polygon points="746.7,65.0 848.9,124.0 848.9,110.0 746.7,51.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="892.2,99.0 848.9,124.0 848.9,110.0 892.2,85.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="790.0,26.0 892.2,85.0 848.9,110.0 746.7,51.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="883.5,100.0 857.5,115.0 857.5,110.0 883.5,95.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,772.7,46.0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#171c20">MCP servers</text>
+<polygon points="624.7,159.0 726.9,218.0 726.9,204.0 624.7,145.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="770.2,193.0 726.9,218.0 726.9,204.0 770.2,179.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="668.0,120.0 770.2,179.0 726.9,204.0 624.7,145.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="761.5,194.0 735.5,209.0 735.5,204.0 761.5,189.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,650.7,140.0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#171c20">hooks</text>
+<polygon points="788.7,155.0 890.9,214.0 890.9,200.0 788.7,141.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="934.2,189.0 890.9,214.0 890.9,200.0 934.2,175.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="832.0,116.0 934.2,175.0 890.9,200.0 788.7,141.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="925.5,190.0 899.5,205.0 899.5,200.0 925.5,185.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,814.7,136.0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#171c20">prompts</text>
+<polygon points="686.7,247.0 788.9,306.0 788.9,292.0 686.7,233.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="832.2,281.0 788.9,306.0 788.9,292.0 832.2,267.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="730.0,208.0 832.2,267.0 788.9,292.0 686.7,233.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="823.5,282.0 797.5,297.0 797.5,292.0 823.5,277.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,712.7,228.0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#171c20">agent files</text>
+<polygon points="968.5,226.0 1062.0,280.0 1062.0,270.0 968.5,216.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1155.5,226.0 1062.0,280.0 1062.0,270.0 1155.5,216.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,162.0 1155.5,216.0 1062.0,270.0 968.5,216.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="978.9,216.0 1062.0,264.0 1062.0,239.0 978.9,191.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,216.0 1062.0,264.0 1062.0,239.0 1145.1,191.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,143.0 1145.1,191.0 1062.0,239.0 978.9,191.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="991.0,214.0 1027.4,235.0 1027.4,229.0 991.0,208.0" fill="#f3f4ef" stroke="#59646b" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1041.2,243.0 1049.9,248.0 1049.9,242.0 1041.2,237.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="1129.5" y1="218.0" x2="1129.5" y2="207.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1117.4" y1="225.0" x2="1117.4" y2="214.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1105.3" y1="232.0" x2="1105.3" y2="221.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1093.2" y1="239.0" x2="1093.2" y2="228.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1081.1" y1="246.0" x2="1081.1" y2="235.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="978.9,187.0 1062.0,235.0 1062.0,210.0 978.9,162.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,187.0 1062.0,235.0 1062.0,210.0 1145.1,162.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,114.0 1145.1,162.0 1062.0,210.0 978.9,162.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="991.0,185.0 1027.4,206.0 1027.4,200.0 991.0,179.0" fill="#f3f4ef" stroke="#59646b" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1041.2,214.0 1049.9,219.0 1049.9,213.0 1041.2,208.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="1129.5" y1="189.0" x2="1129.5" y2="178.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1117.4" y1="196.0" x2="1117.4" y2="185.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1105.3" y1="203.0" x2="1105.3" y2="192.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1093.2" y1="210.0" x2="1093.2" y2="199.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1081.1" y1="217.0" x2="1081.1" y2="206.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="978.9,158.0 1062.0,206.0 1062.0,181.0 978.9,133.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,158.0 1062.0,206.0 1062.0,181.0 1145.1,133.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,85.0 1145.1,133.0 1062.0,181.0 978.9,133.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="991.0,156.0 1027.4,177.0 1027.4,171.0 991.0,150.0" fill="#f3f4ef" stroke="#59646b" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1041.2,185.0 1049.9,190.0 1049.9,184.0 1041.2,179.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="1129.5" y1="160.0" x2="1129.5" y2="149.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1117.4" y1="167.0" x2="1117.4" y2="156.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1105.3" y1="174.0" x2="1105.3" y2="163.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1093.2" y1="181.0" x2="1093.2" y2="170.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1081.1" y1="188.0" x2="1081.1" y2="177.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="978.9,129.0 1062.0,177.0 1062.0,152.0 978.9,104.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,129.0 1062.0,177.0 1062.0,152.0 1145.1,104.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,56.0 1145.1,104.0 1062.0,152.0 978.9,104.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="991.0,127.0 1027.4,148.0 1027.4,142.0 991.0,121.0" fill="#f3f4ef" stroke="#59646b" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1041.2,156.0 1049.9,161.0 1049.9,155.0 1041.2,150.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="1129.5" y1="131.0" x2="1129.5" y2="120.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1117.4" y1="138.0" x2="1117.4" y2="127.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1105.3" y1="145.0" x2="1105.3" y2="134.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1093.2" y1="152.0" x2="1093.2" y2="141.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1081.1" y1="159.0" x2="1081.1" y2="148.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="978.9,100.0 1062.0,148.0 1062.0,123.0 978.9,75.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,100.0 1062.0,148.0 1062.0,123.0 1145.1,75.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,27.0 1145.1,75.0 1062.0,123.0 978.9,75.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="991.0,98.0 1027.4,119.0 1027.4,113.0 991.0,92.0" fill="#f3f4ef" stroke="#59646b" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1041.2,127.0 1049.9,132.0 1049.9,126.0 1041.2,121.0" fill="#8fce5a" stroke="#8fce5a" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="1129.5" y1="102.0" x2="1129.5" y2="91.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1117.4" y1="109.0" x2="1117.4" y2="98.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1105.3" y1="116.0" x2="1105.3" y2="105.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1093.2" y1="123.0" x2="1093.2" y2="112.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<line x1="1081.1" y1="130.0" x2="1081.1" y2="119.0" stroke="#c9cfc8" stroke-width="2" stroke-linecap="round"/>
+<polygon points="978.9,71.0 1062.0,119.0 1062.0,111.0 978.9,63.0" fill="#dde1da" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1145.1,71.0 1062.0,119.0 1062.0,111.0 1145.1,63.0" fill="#e9ece6" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1062.0,15.0 1145.1,63.0 1062.0,111.0 978.9,63.0" fill="#ffffff" stroke="#59646b" stroke-width="1.2" stroke-linejoin="round"/>
+<text transform="matrix(0.8660254,0.5,-0.8660254,0.5,1031.7,54.5)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#171c20">ARR</text>
+<text x="48" y="92" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#171c20">Subramania Raja</text>
+<rect x="48" y="120" width="372" height="32" fill="#8fce5a"/><text x="60" y="142" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#10150c">Creator, Agentic Resource Registry</text>
+<rect x="48" y="162" width="166" height="32" fill="#8fce5a"/><text x="60" y="184" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#10150c">CEO, Observal</text>
+<text x="48" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#667076">github.com/dhanpraja231</text></svg>
