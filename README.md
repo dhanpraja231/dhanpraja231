@@ -16,21 +16,21 @@
 <table>
 <tr>
 <td align="center" width="25%" height="90"><a href="https://www.joinef.com/"><img src="https://www.joinef.com/wp-content/themes/joinef2023/img/framework/logo-new.svg" width="170" alt="Entrepreneurs First"></a></td>
-<td align="center" width="25%" height="90"><a href="https://grayscale.vc/"><img src="https://grayscale.vc/static/4aa2c6e09f5e11b47eadb498d40e88f0/07eb6/gv-white-transparent.png" width="140" alt="Grayscale SF Program"></a></td>
+<td align="center" width="25%" height="90"><a href="https://openai.com/startups"><picture><source media="(prefers-color-scheme: light)" srcset="badges/openai-light.svg"><img src="badges/openai.svg" width="160" alt="OpenAI for Startups"></picture></a></td>
 <td align="center" width="25%" height="90"><a href="https://blog.google/intl/en-in/company-news/helping-founders-build-stronger-ai-products-introducing-google-for-startups-immersion/"><img src="https://cdn.prod.website-files.com/68c1084e137e63873a526f0f/694517628ca952cb8e6766a8_antler-webclip.jpg" width="52" height="52" alt="Google for Startups Immersion"></a></td>
 <td align="center" width="25%" height="90"><a href="https://cloud.google.com/startup"><img src="badges/google-cloud.svg" height="52" alt="Google Cloud"></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><b>Entrepreneurs First</b><br><sub>Founder in Residence</sub></td>
-<td align="center" valign="top" width="25%"><b>Grayscale SF Program</b><br><sub>by Grayscale Ventures</sub></td>
+<td align="center" valign="top" width="25%"><b>OpenAI for Startups</b><br><sub>Startup program</sub></td>
 <td align="center" valign="top" width="25%"><b>Google for Startups Immersion</b><br><sub>Powered by Antler India</sub></td>
 <td align="center" valign="top" width="25%"><b>Google Cloud</b><br><sub>Startup program</sub></td>
 </tr>
 <tr>
-<td align="center" width="25%" height="90"><a href="https://aws.amazon.com/activate/"><img src="badges/aws.svg" height="48" alt="AWS Activate"></a></td>
+<td align="center" width="25%" height="90"><a href="https://aws.amazon.com/activate/"><picture><source media="(prefers-color-scheme: light)" srcset="badges/aws-light.svg"><img src="badges/aws.svg" height="48" alt="AWS Activate"></picture></a></td>
 <td align="center" width="25%" height="90"><a href="https://www.microsoft.com/startups"><img src="badges/azure.svg" height="52" alt="Microsoft for Startups"></a></td>
-<td align="center" width="25%" height="90"><a href="https://www.anthropic.com/"><img src="badges/anthropic.svg" width="170" alt="Anthropic"></a></td>
-<td align="center" width="25%" height="90"><a href="https://www.mintlify.com/"><img src="badges/mintlify.svg" width="160" alt="Mintlify"></a></td>
+<td align="center" width="25%" height="90"><a href="https://www.anthropic.com/"><picture><source media="(prefers-color-scheme: light)" srcset="badges/anthropic-light.svg"><img src="badges/anthropic.svg" width="170" alt="Anthropic"></picture></a></td>
+<td align="center" width="25%" height="90"><a href="https://www.mintlify.com/"><picture><source media="(prefers-color-scheme: light)" srcset="badges/mintlify-light.svg"><img src="badges/mintlify.svg" width="160" alt="Mintlify"></picture></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="25%"><b>AWS Activate</b><br><sub>Startup program</sub></td>
