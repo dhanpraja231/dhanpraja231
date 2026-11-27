@@ -23,7 +23,7 @@
 <tr>
 <td align="center" valign="top" width="25%"><b>Entrepreneurs First</b><br><sub>Founder in Residence</sub></td>
 <td align="center" valign="top" width="25%"><b>OpenAI for Startups</b><br><sub>Startup program</sub></td>
-<td align="center" valign="top" width="25%"><b>Google for Startups Immersion</b><br><sub>Powered by Antler India</sub></td>
+<td align="center" valign="top" width="25%"><b>Google for Startups Immersion</b><br><sub>Powered by Antler</sub></td>
 <td align="center" valign="top" width="25%"><b>Google Cloud</b><br><sub>Startup program</sub></td>
 </tr>
 <tr>
